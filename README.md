@@ -3,6 +3,8 @@ Responsive school timetable
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+![image](https://user-images.githubusercontent.com/110251375/190416597-2c4801b1-9c3b-43be-920c-1a2ced80aaa5.png)
+
 
 HTML + CSS styling to display a school time-table on screen. Flexbox used to change layout in smaller screen devices.
 
